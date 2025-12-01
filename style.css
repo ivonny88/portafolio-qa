@@ -1,13 +1,13 @@
 body {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Verdana, 'Times New Roman', serif, sans-serif;
   font-size: 1rem;
   color: black;
   margin: 0;
 }
 
 header {
-  background-color: rgb(7, 167, 153);
-  color: white;
+  background-color: rgb(167, 7, 156);
+  color: rgba(0, 0, 0, 0.93);
   padding: 5rem;
   text-align: center;
 }
@@ -57,7 +57,7 @@ p {
 }
 
 a {
-  color: #02524e;
+  color: #3774d1;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ select {
 button {
   width: 100%;
   padding: 1rem;
-  background-color: #02463a;
+  background-color: rgb(167, 7, 156);
   color: white;
   border: none;
   border-radius: 0.5rem;
