@@ -34,5 +34,5 @@ Para ejecutar los tests:
 
 ## 👩‍💻 Autor
 **Fátima Ocaña – QA Junior**  
-[🔗 LinkedIn](https://www.linkedin.com/feed/)
+[🔗 LinkedIn](https://www.linkedin.com/in/f%C3%A1tima-oca%C3%B1a-caba%C3%B1as-1141005b/)
 
