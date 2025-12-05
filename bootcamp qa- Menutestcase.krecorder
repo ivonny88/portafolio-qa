@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+<title>bootcamp qa- Menutestcase</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3" data-tags="">Visitar los enlaces del menú</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://ivonny88.github.io/portafolio-qa/<datalist></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=menusobremi<datalist></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://ivonny88.github.io/portafolio-qa/#sobremi<datalist><option>https://ivonny88.github.io/portafolio-qa/#sobremi</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=menuproyectos<datalist></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://ivonny88.github.io/portafolio-qa/#proyectos<datalist><option>https://ivonny88.github.io/portafolio-qa/#proyectos</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=menueducacion<datalist></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://ivonny88.github.io/portafolio-qa/#educacion<datalist><option>https://ivonny88.github.io/portafolio-qa/#educacion</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=menucontacto<datalist></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://ivonny88.github.io/portafolio-qa/#contacto<datalist><option>https://ivonny88.github.io/portafolio-qa/#contacto</option></datalist></td><td></td></tr>
+</tbody></table>
+</body>
+</html>

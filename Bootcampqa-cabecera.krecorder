@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+<title>Bootcampqa-cabecera</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3" data-tags="">Test cabecera</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://ivonny88.github.io/portafolio-qa/<datalist><option>https://ivonny88.github.io/portafolio-qa/</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=linkgithub<datalist><option>id=linkgithub</option><option>xpath=//a[@id='linkgithub']</option><option>xpath=//a[contains(@href, 'https://github.com/ivonny88/portafolio-qa')]</option><option>xpath=//p[2]/a</option><option>css=#linkgithub</option></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://github.com/ivonny88/portafolio-qa<datalist><option>https://github.com/ivonny88/portafolio-qa</option></datalist></td><td></td></tr>
+<tr><td>open</td><td>https://github.com/ivonny88/portafolio-qa<datalist><option>https://github.com/ivonny88/portafolio-qa</option></datalist></td><td></td></tr>
+<tr><td>open</td><td>https://ivonny88.github.io/portafolio-qa/<datalist><option>https://ivonny88.github.io/portafolio-qa/</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=linklinkedin<datalist><option>id=linklinkedin</option><option>xpath=//a[@id='linklinkedin']</option><option>xpath=//a[contains(@href, 'https://www.linkedin.com/in/f%C3%A1tima-oca%C3%B1a-caba%C3%B1as-1141005b/')]</option><option>xpath=//a[2]</option><option>css=#linklinkedin</option></datalist></td><td></td></tr>
+<tr><td>open</td><td>https://www.linkedin.com/in/f%C3%A1tima-oca%C3%B1a-caba%C3%B1as-1141005b/<datalist><option>https://www.linkedin.com/in/f%C3%A1tima-oca%C3%B1a-caba%C3%B1as-1141005b/</option></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://www.linkedin.com/in/f%C3%A1tima-oca%C3%B1a-caba%C3%B1as-1141005b/<datalist><option>https://www.linkedin.com/in/f%C3%A1tima-oca%C3%B1a-caba%C3%B1as-1141005b/</option></datalist></td><td></td></tr>
+</tbody></table>
+</body>
+</html>
