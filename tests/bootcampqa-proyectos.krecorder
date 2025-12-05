@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+<title>bootcampqa-proyectos</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3" data-tags="">Test proyectos</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://ivonny88.github.io/portafolio-qa/<datalist></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=menuproyectos<datalist></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://ivonny88.github.io/portafolio-qa/#proyectos<datalist></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=linkportafolioqa<datalist></datalist></td><td></td></tr>
+<tr><td>open</td><td>https://github.com/ivonny88/portafolio-qa<datalist></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://github.com/ivonny88/portafolio-qa<datalist><option>https://github.com/ivonny88/portafolio-qa</option></datalist></td><td></td></tr>
+<tr><td>open</td><td>https://ivonny88.github.io/portafolio-qa/#proyectos<datalist></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=linkproyectoapi<datalist></datalist></td><td></td></tr>
+<tr><td>open</td><td>https://www.postman.com/fatimaocana695-463421/destinations/collection/juhanqe/api-destinations<datalist></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://www.postman.com/fatimaocana695-463421/destinations/collection/juhanqe/api-destinations<datalist></datalist></td><td></td></tr>
+<tr><td>selectWindow</td><td>win_ser_local<datalist></datalist></td><td></td></tr>
+<tr><td>open</td><td>https://ivonny88.github.io/portafolio-qa/#proyectos<datalist></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=linkproyectoqamanual<datalist></datalist></td><td></td></tr>
+<tr><td>assertLocation</td><td>https://sites.google.com/d/1a9jrXje6iWGQD0OFBImoJeUgcXBBQvCR/p/1qBMiP58R1neOIOD8Cq7-rmYPE8QMdKgz/edit<datalist><option>https://sites.google.com/d/1a9jrXje6iWGQD0OFBImoJeUgcXBBQvCR/p/1qBMiP58R1neOIOD8Cq7-rmYPE8QMdKgz/edit</option></datalist></td><td></td></tr>
+<tr><td>open</td><td>https://sites.google.com/d/1a9jrXje6iWGQD0OFBImoJeUgcXBBQvCR/p/1qBMiP58R1neOIOD8Cq7-rmYPE8QMdKgz/edit<datalist></datalist></td><td></td></tr>
+</tbody></table>
+</body>
+</html>
