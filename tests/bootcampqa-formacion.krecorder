@@ -15,5 +15,13 @@
 <tr><td>click</td><td>id=menueducacion<datalist><option>id=menueducacion</option><option>link=Educación</option><option>xpath=//a[contains(text(),'Educación')]</option><option>xpath=//a[@id='menueducacion']</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Proyectos'])[1]/following::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Sobre mí'])[1]/following::a[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Contacto'])[1]/preceding::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Fátima Ocaña'])[1]/preceding::a[2]</option><option>xpath=//*/text()[normalize-space(.)='Educación']/parent::*</option><option>xpath=//a[contains(@href, '#educacion')]</option><option>xpath=//li[3]/a</option><option>css=#menueducacion</option></datalist></td><td></td></tr>
 <tr><td>assertLocation</td><td>https://ivonny88.github.io/portafolio-qa/#educacion<datalist><option>https://ivonny88.github.io/portafolio-qa/#educacion</option></datalist></td><td></td></tr>
 </tbody></table>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3" data-tags="">Ver informacion sobre mi</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://ivonny88.github.io/portafolio-qa/<datalist><option>https://ivonny88.github.io/portafolio-qa/</option></datalist></td><td></td></tr>
+<tr><td>click</td><td>id=menusobremi<datalist><option>id=menusobremi</option><option>link=Sobre mí</option><option>xpath=//a[contains(text(),'Sobre mí')]</option><option>xpath=//a[@id='menusobremi']</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Proyectos'])[1]/preceding::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Educación'])[1]/preceding::a[2]</option><option>xpath=//*/text()[normalize-space(.)='Sobre mí']/parent::*</option><option>xpath=//a[contains(@href, '#sobremi')]</option><option>xpath=//a</option><option>css=#menusobremi</option></datalist></td><td></td></tr>
+</tbody></table>
 </body>
 </html>
